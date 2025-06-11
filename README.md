@@ -21,7 +21,7 @@ Tekna.Rocks-QA-Challenge/
 ├── test-cases/
 │   └── base-simulada-veiculos.xlsx
 ├── docs/
-│   └── desafio-resolvido.pdf (opcional)
+│   └── desafio-resolvido.pdf
 ├── automation/
 │   ├── strategy.md
 │   └── mock-test.cy.js
