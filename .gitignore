@@ -1,0 +1,31 @@
+# Arquivos temporários e backups do Office
+*.tmp
+*.bak
+~$*
+*.wbk
+.DS_Store
+Thumbs.db
+
+# Arquivos criados automaticamente ao abrir arquivos do Word/Excel
+~$*.docx
+~$*.xlsx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  add .gitignore
